@@ -79,7 +79,7 @@ a {
   color: inherit;
 }
 
-a {
+a:hover {
   background: linear-gradient(
     90deg,
     var(--brand-color-secondary) 0%,
