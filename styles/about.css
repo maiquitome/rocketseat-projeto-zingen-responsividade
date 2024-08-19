@@ -1,0 +1,15 @@
+#about {
+  & #about-text {
+    max-width: 40rem;
+  }
+
+  background-color: var(--surface-color);
+
+  /* & .even-columns {
+    gap: 2rem;
+  } */
+
+  img {
+    max-width: 34rem;
+  }
+}

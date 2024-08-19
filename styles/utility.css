@@ -37,6 +37,10 @@
   align-items: center;
 }
 
+.justify-between {
+  justify-content: space-between;
+}
+
 .gap-1 {
   gap: 1rem;
 }
